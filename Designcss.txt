@@ -1,0 +1,71 @@
+@CHARSET "ISO-8859-1";
+
+.FisrtDiv {
+	height: 180px;
+	width: 550px;
+	background: #b7bcca;
+	position: absolute;
+	left: 50%;
+	top: 20%;
+	box-sizing: border-box;
+	transform: translate(-50%, -50%);
+	border: solid #242c5b;
+}
+
+.marque {
+	font-size: 15px;
+	font-color: #000040;
+	color: #242c5b;
+}
+
+.tabclass {
+	border: solid 1px #242c5b;
+}
+
+.tab2 {
+	font-size: 16px;
+}
+
+.solreg {
+	height: 260px;
+	width: 550px;
+	background: #c0c0c0;
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	box-sizing: border-box;
+	transform: translate(-50%, -50%);
+	border: solid #000040;
+}
+
+.button {
+	height: 30px;
+	width: 80px;
+	background: #808080;
+	color: black;
+	font-family: times new roman;
+	font-size: 16px;
+}
+
+.solserach {
+	height: 160px;
+	width: 260px;
+	background: #c0c0c0;
+	position: absolute;
+	left: 50%;
+	top: 20%;
+	box-sizing: border-box;
+	transform: translate(-50%, -50%);
+	border: solid #000040;
+}
+
+.displayform {
+	height: 360px;
+	width: 660px;
+	background: #b9c8b7;
+	position: absolute;
+	left: 50%;
+	top: 40%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+}
